@@ -2,7 +2,7 @@
 %define devname %mklibname cutelyst -d
 
 Name: cutelyst
-Version: 4.4.0
+Version: 4.5.0
 Release: 1
 Source0: https://github.com/cutelyst/cutelyst/archive/refs/tags/v%{version}.tar.gz
 Summary: C++ Web Framework built on top of Qt
